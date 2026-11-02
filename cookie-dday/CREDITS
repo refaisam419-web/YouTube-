@@ -1,0 +1,5 @@
+Soldiers, beach, story, animation, score and sound: original to this film (3D built in code).
+Rendering: three.js (MIT) with the Lemo-Opuscar post-processing (GTAO, depth of field) — https://github.com/lemomo-ai/lemo-opuscar ; environment lighting: Poly Haven HDRI, CC0.
+Narration: Kokoro TTS (voice bm_george), Apache-2.0 model.
+Music and sound: synthesised in numpy (mix.py); no samples, no recorded music.
+Red "jam" on the figures is stylised icing, non-graphic.
