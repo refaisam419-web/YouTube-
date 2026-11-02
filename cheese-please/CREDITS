@@ -1,0 +1,6 @@
+Characters (Pip the mouse, Boris the cat), story, set, animation, score and sound: original to this film.
+Drawing engine (toon.js, chars.js, film.js, ui.js): Lemo-Opuscar library, 1930s Rubber Hose style, MIT licence — https://github.com/lemomo-ai/lemo-opuscar
+Typefaces: Shrikhand, Limelight, IM Fell English SC — SIL Open Font License 1.1 (fonts/OFL-*.txt)
+Narration: Kokoro TTS (voices af_sky, bm_george), Apache-2.0 model.
+Music and sound effects: synthesised in numpy (mix.py); no samples, no recorded music.
+No existing cartoon character, name, design or melody is used.
