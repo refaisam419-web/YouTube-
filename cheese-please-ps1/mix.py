@@ -72,5 +72,5 @@ for k, at in V.items():
     w = np.repeat(w, SR // 11025 + 1)[:int(len(w) * SR / 11025)]; w = lp(w, 4200)
     place(voice, w, at, .95)
 env = np.convolve(np.abs(voice), np.ones(int(.1 * SR)) / int(.1 * SR), 'same'); duck = 1 - .55 * np.clip(env / (env.max() * .3 + 1e-9), 0, 1)
-mix = np.tanh((music * duck * 1.1 + fx * 1.0 + voice * 1.0) * 1.1) * .72; st = np.stack([mix, mix], 1)
+raw = music * duck * 1.1 + fx * 1.0 + voice * 1.0; mix = np.tanh(raw * 2.2) / np.tanh(2.2) * .55; st = np.stack([mix, mix], 1)
 os.makedirs(f'{HERE}/out', exist_ok=True); sf.write(f'{HERE}/out/mix.wav', st.astype(np.float32), SR); print('mix ok', st.shape, float(np.abs(st).max()))
