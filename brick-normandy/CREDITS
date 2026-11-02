@@ -1,0 +1,6 @@
+Style, brick geometry (bricks.js), post-processing (GTAO, depth of field) and tools: Lemo-Opuscar library, Brick Toy style, MIT — https://github.com/lemomo-ai/lemo-opuscar
+Soldiers, beach, story, animation, score and sound: original to this film. No brand name, logo or minifigure silhouette: figures are built from generic bricks.
+Real-world props and lighting: Poly Haven walnut texture, tea set model and studio HDRI, CC0.
+Typeface: Fredoka, SIL Open Font License 1.1.
+Narration: Kokoro TTS (voice bm_george), Apache-2.0 model.
+Music and sound: synthesised in numpy (mix.py); no samples. Red pieces are toy bricks; non-graphic.
