@@ -1,0 +1,7 @@
+[
+ {"id":"p1","text":"Just one little nibble.","voice":"af_sky","speed":0.95},
+ {"id":"b1","text":"Breakfast!","voice":"bm_george","speed":0.8},
+ {"id":"p2","text":"Nice try, pal!","voice":"af_sky","speed":1.05},
+ {"id":"b2","text":"Ouch! My arm!","voice":"bm_george","speed":0.95},
+ {"id":"p3","text":"Thanks for the hand!","voice":"af_sky","speed":1.05}
+]
