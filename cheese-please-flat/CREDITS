@@ -1,0 +1,6 @@
+Characters (Pip, Boris), story, kitchen, animation, score and sound: original to this film.
+Drawing helpers (toon.js): Lemo-Opuscar library, MIT — https://github.com/lemomo-ai/lemo-opuscar
+Typeface: Fredoka, SIL Open Font License 1.1 (library core/fonts).
+Narration: Kokoro TTS (voices af_sky, bm_george), Apache-2.0 model.
+Music and sound effects: synthesised in numpy (mix.py); no samples.
+No existing cartoon character, name, design or melody is used.
