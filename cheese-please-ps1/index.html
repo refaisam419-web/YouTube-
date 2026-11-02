@@ -1,0 +1,12 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Cheese, Please! (PS1)</title>
+<style>
+@font-face{font-family:'PS2P';src:url(fonts/PressStart2P-Regular.ttf)}
+html,body{margin:0;background:#000;overflow:hidden}
+canvas{position:absolute;left:240px;top:0;width:1440px;height:1080px;image-rendering:pixelated}
+#crt{position:absolute;left:240px;top:0;width:1440px;height:1080px;pointer-events:none;
+ background:repeating-linear-gradient(to bottom,rgba(0,0,0,.20) 0,rgba(0,0,0,.20) 2px,rgba(0,0,0,0) 2px,rgba(0,0,0,0) 4px),radial-gradient(ellipse at center,rgba(0,0,0,0) 55%,rgba(0,0,0,.55) 100%)}
+</style>
+<script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js","three/addons/":"/node_modules/three/examples/jsm/"}}</script>
+</head><body><canvas id="gl" width="360" height="270"></canvas><canvas id="hud" width="360" height="270"></canvas><div id="crt"></div>
+<script type="module" src="main.js"></script></body></html>

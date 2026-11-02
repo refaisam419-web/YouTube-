@@ -1,0 +1,5 @@
+Characters (Pip, Boris), story, set, 3D models, animation, chiptune score, sound effects: original to this film.
+PS1-style renderer (vertex snapping, affine textures, Gouraud, dither): written for this film on three.js (MIT) via the Lemo-Opuscar capture tools (MIT) — https://github.com/lemomo-ai/lemo-opuscar
+Typeface: Press Start 2P, SIL Open Font License 1.1 (fonts/OFL-pressstart2p.txt)
+Narration: Kokoro TTS (voices af_sky, bm_george), Apache-2.0 model; processed to 8-bit / 11 kHz.
+All textures drawn procedurally; no images, samples or recorded music.
