@@ -1,0 +1,5 @@
+Characters (Pip, Boris), story, set, 3D models, animation, score and sound: original to this film.
+Rendering: three.js (MIT) via the Lemo-Opuscar capture tools (MIT) — https://github.com/lemomo-ai/lemo-opuscar ; studio HDRI: Poly Haven, CC0.
+Typeface: Fredoka, SIL Open Font License 1.1.
+Narration: Kokoro TTS (voices af_sky, bm_george), Apache-2.0 model.
+Music and sound effects: synthesised in numpy (mix.py); no samples.
