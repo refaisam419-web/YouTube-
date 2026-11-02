@@ -1,0 +1,4 @@
+Picture engine (carve/print): Lemo-Opuscar library, woodcut engine, MIT licence (code) — https://github.com/lemomo-ai/lemo-opuscar
+Typeface: IM Fell English / IM Fell English SC, Igino Marini, SIL Open Font License 1.1 (fonts/OFL-IMFell.txt)
+Sound: synthesised in numpy (mix.py); no samples, no music library.
+No photographs or footage; all imagery is drawn in code.
