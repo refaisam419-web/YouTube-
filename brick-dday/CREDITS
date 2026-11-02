@@ -1,0 +1,6 @@
+Picture engine/tools: Lemo-Opuscar library (MIT) — https://github.com/lemomo-ai/lemo-opuscar ; brick geometry (bricks.js) and the post-processing pipeline come from its Brick Toy style.
+HDRI (photo_studio_loft_hall), walnut texture, tea set model: Poly Haven, CC0 — https://polyhaven.com
+Typeface: Fredoka, SIL Open Font License 1.1 (core/fonts of the library).
+Narration: Kokoro TTS (voice am_michael), Apache-2.0 model.
+Music and foley: synthesised in numpy (mix.py); no samples.
+No LEGO name, logo or minifigure silhouette is used: figures are built from generic bricks.

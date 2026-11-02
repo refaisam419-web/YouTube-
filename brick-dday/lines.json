@@ -1,0 +1,5 @@
+[
+ {"id":"l1","text":"June sixth, nineteen forty-four.","voice":"am_michael","speed":0.9,"asr":"June 6, 1944"},
+ {"id":"l2","text":"A thousand boats sailed to one beach.","voice":"am_michael","speed":0.9,"asr":"1,000 boats sailed to one beach."},
+ {"id":"l3","text":"And the world turned.","voice":"am_michael","speed":0.9}
+]
